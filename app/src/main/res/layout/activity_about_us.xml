@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".About_Us">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="30sp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="237dp"
+                android:layout_height="215dp"
+                android:layout_marginTop="16dp"
+                app:srcCompat="@drawable/bloomify_1" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/btnBackground"
+                android:fontFamily="@font/acme"
+                android:text="Since 2024"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/btnBackground"
+                android:fontFamily="@font/acme"
+                android:text="Blossom Beyond Boundaries"
+                android:textSize="22sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15sp"
+                android:fontFamily="serif"
+                android:gravity="center_horizontal"
+                android:text="About Us"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:fontFamily="serif"
+                android:gravity="center_horizontal"
+                android:text="Welcome to Bloomify Snaps, your ultimate companion in discovering the floral wonders of the Philippines!"
+                android:textSize="22sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:fontFamily="serif"
+                android:gravity="center_horizontal"
+                android:text="
+At Bloomify Snaps, we're passionate about bringing the enchanting world of flowers closer to you. Our team of dedicated IT students has combined cutting-edge technology with a love for nature to create a revolutionary system that allows you to identify flowers with just a snap."
+                android:textSize="22sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:fontFamily="serif"
+                android:gravity="center_horizontal"
+                android:text="
+With Bloomify Snaps, you can explore the diverse flora of the Philippines, from the vibrant hues of the Sampaguita to the delicate elegance of the Waling-Waling. Our extensive database ensures accurate identification, helping you learn more about the flowers that adorn our gardens and landscapes."
+                android:textSize="22sp"
+                android:justificationMode="inter_word"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:fontFamily="serif"
+                android:gravity="center_horizontal"
+                android:text="
+Join us on this blooming journey as we celebrate the beauty and biodiversity of Philippine flowers. Let Bloomify Snaps be your guide to a world filled with floral splendor!"
+                android:textSize="22sp"
+                android:justificationMode="inter_word"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
