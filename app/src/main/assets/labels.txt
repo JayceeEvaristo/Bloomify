@@ -3,3 +3,29 @@
 2 Striped Barbados Lily
 3 Purple Shamrock
 4 Pin Wheel Flower
+5 Aster
+6 Camellia
+7 China Pink
+8 Chrysanthemum
+9 Cosmos
+10 Firecracker
+11 Globe Amaranth
+12 Golden Shower
+13 Impatiens Balsamina
+14 Jasmine
+15 Lantana
+16 Melampodium
+17 Mexican Holdback
+18 Orchids
+19 Milflores
+20 Plumbago Auriculata
+21 Plumberry
+22 Florist Kalanchoe
+23 Rose
+24 Royal Poinciana
+25 Sunflower
+26 Sunset Bells
+27 Tsitsirika
+28 White Angel
+29 Wishbone
+30 Yellow Bell
