@@ -29,3 +29,6 @@
 28 White Angel
 29 Wishbone
 30 Yellow Bell
+31 Singapore Graveyard
+32 Tabebuia Rosea
+33 Gumamela
