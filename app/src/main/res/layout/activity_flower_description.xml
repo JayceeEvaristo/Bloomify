@@ -60,8 +60,9 @@
                 android:fontFamily="serif"
                 android:gravity="center_horizontal"
                 android:text="About Us"
-                android:textSize="25sp"
-                android:justificationMode="inter_word"/>
+                android:textSize="25sp"/>
+<!--                android:justificationMode="inter_word"-->
+
 
 <!--            <EditText
                 android:id="@+id/EditText_flower_description"
